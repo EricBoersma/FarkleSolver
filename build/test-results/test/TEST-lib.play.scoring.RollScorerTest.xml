@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lib.play.scoring.RollScorerTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-01-07T23:36:59" hostname="DESKTOP-AN6FANM" time="0.025">
+  <properties/>
+  <testcase name="single five scores 50()" classname="lib.play.scoring.RollScorerTest" time="0.017"/>
+  <testcase name="single one highest score and most used are the same()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="double five highest score and most used are the same()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="triple ones scores 1000()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="two ones and a five scores 250()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="triple ones returns triple ones as the highest scoring option()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="three of a kind scores based on the value of the dice rolled()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="six ones scores 2000()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="single one scores 100()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="large straight scores 1500()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="double five scores 100()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="three pairs scores 500()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="large straight returns large straight as the primary scoring option()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <testcase name="double one scores 200()" classname="lib.play.scoring.RollScorerTest" time="0.001"/>
+  <testcase name="three pairs with ones are not highest scoring, but are highest dice used()" classname="lib.play.scoring.RollScorerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

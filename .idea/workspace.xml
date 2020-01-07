@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45f97f89-9d52-4620-accf-bdae258b56c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="485" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vj8AvvT6OJI1ue8nuaFmMZ8ocy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="lib.play.scoring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ericb\Documents\GitHub\FarkleSolver" />
+      <recent name="C:\Users\ericb\Documents\GitHub\FarkleSolver\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ericb\Documents\GitHub\FarkleSolver\src\test\kotlin\lib\play\scoring" />
+      <recent name="C:\Users\ericb\Documents\GitHub\FarkleSolver\src\main\kotlin\lib\play\scoring" />
+      <recent name="C:\Users\ericb\Documents\GitHub\FarkleSolver\src\test\kotlin\lib\roll" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.lib.util.RoundsPerGameCalculatorKt">
+    <configuration name="PlayerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;lib.game.player.PlayerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerTest.players roll again when they should" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;lib.game.player.PlayerTest.players roll again when they should&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerTest.roll count players roll when they should" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;lib.game.player.PlayerTest.roll count players roll when they should&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'FarkleSolver.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lib.util.RoundsPerGameCalculatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FarkleSolver.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lib.util.RoundsPerGameCalculatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.lib.util.RoundsPerGameCalculatorKt" />
+        <item itemvalue="Gradle.Tests in 'FarkleSolver.test'" />
+        <item itemvalue="Gradle.PlayerTest" />
+        <item itemvalue="Gradle.PlayerTest.roll count players roll when they should" />
+        <item itemvalue="Gradle.PlayerTest.players roll again when they should" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f97f89-9d52-4620-accf-bdae258b56c7" name="Default Changelist" comment="" />
+      <created>1577755003410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577755003410</updated>
+      <workItem from="1577755005693" duration="27000" />
+      <workItem from="1577755087780" duration="117000" />
+      <workItem from="1577755219759" duration="3615000" />
+      <workItem from="1577812954920" duration="1401000" />
+      <workItem from="1577818106069" duration="3258000" />
+      <workItem from="1577822652544" duration="13000" />
+      <workItem from="1577822674127" duration="8000" />
+      <workItem from="1577822688379" duration="129000" />
+      <workItem from="1577894317344" duration="4072000" />
+      <workItem from="1577917646619" duration="12682000" />
+      <workItem from="1578093800980" duration="6999000" />
+      <workItem from="1578153188781" duration="3128000" />
+      <workItem from="1578156326758" duration="5000" />
+      <workItem from="1578156338640" duration="4455000" />
+      <workItem from="1578161576825" duration="356000" />
+      <workItem from="1578251283611" duration="4605000" />
+      <workItem from="1578438554020" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="359" key="#Notifications" timestamp="1578161524166">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1578161524166" />
+    <state x="872" y="359" key="#Plugins" timestamp="1577822696786">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1577822696786" />
+    <state x="1071" y="417" key="#com.intellij.ide.util.MemberChooser" timestamp="1578094362679">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1071" y="417" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1578094362679" />
+    <state x="960" y="429" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577822656768">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="429" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577822656768" />
+    <state x="845" y="2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577921658939">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="845" y="2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577921658939" />
+    <state x="1059" y="353" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1577923200147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="353" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577923200147" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1578440510325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1578440510325" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1578440510325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1578440510325" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1578440510325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1578440510325" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1578440510325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1578440510325" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1577930340118">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1577930340118" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1577930340118">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1577930340118" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1577930340118">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1577930340118" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1577930340118">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1577930340118" />
+    <state x="976" y="298" width="607" height="804" key="find.popup" timestamp="1578252136007">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="298" width="607" height="804" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1578252136007" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1577920616951">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1577920616951" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1578161473236">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1578161473236" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FarkleSolver$RollScorerTest.ic" NAME="RollScorerTest Coverage Results" MODIFIED="1577926942997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FarkleSolver$Tests_in__FarkleSolver_test_.ic" NAME="Tests in 'FarkleSolver.test' Coverage Results" MODIFIED="1577929557587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

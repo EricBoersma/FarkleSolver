@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lib.util.HashGenerationUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-07T23:36:59" hostname="DESKTOP-AN6FANM" time="0.001">
+  <properties/>
+  <testcase name="hashMap can accept a hash and generate a hash with varying multiples()" classname="lib.util.HashGenerationUtilTest" time="0.001"/>
+  <testcase name="hashMap with multiple values correctly generates the expected hashMap()" classname="lib.util.HashGenerationUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

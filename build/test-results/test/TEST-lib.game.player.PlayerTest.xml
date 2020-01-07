@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lib.game.player.PlayerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-07T23:36:59" hostname="DESKTOP-AN6FANM" time="0.018">
+  <properties/>
+  <testcase name="round score players roll when they should()" classname="lib.game.player.PlayerTest" time="0.016"/>
+  <testcase name="roll count players roll when they should()" classname="lib.game.player.PlayerTest" time="0.0"/>
+  <testcase name="dice count players roll again when they should()" classname="lib.game.player.PlayerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
